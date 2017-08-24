@@ -1,4 +1,4 @@
-# GPprinter
+# GPprinter 佳博打印机 android版本
 
 对佳博打印机官方提供的demo使用观察者模式封装了一下
 
